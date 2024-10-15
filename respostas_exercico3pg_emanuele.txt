@@ -1,0 +1,4 @@
+3- Utilizando a câmera 2D do exercício anterior, desenhe algo na tela. O que acontece
+quando posicionamos os objetos? Por que é útil essa configuração?
+
+Utilizando a câmera 2D com projeção ortográfica, os objetos são desenhados diretamente nas coordenadas x e y especificadas, sem influência do eixo z, o que facilita o controle preciso do posicionamento. A projeção ortográfica elimina distorções de profundidade, mantendo o tamanho dos objetos constante. Essa configuração é útil para gráficos 2D, interfaces e visualizações técnicas, onde não é necessário lidar com perspectiva, garantindo simplicidade no desenho e consistência visual.
